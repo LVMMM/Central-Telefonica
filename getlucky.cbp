@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="getlucky" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/getlucky" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++98" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/getlucky_v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="central.cpp" />
+		<Unit filename="central.h" />
+		<Unit filename="datosllamadas.cpp" />
+		<Unit filename="datosllamadas.h" />
+		<Unit filename="enlaceacentral.cpp" />
+		<Unit filename="enlaceacentral.h" />
+		<Unit filename="enlaces.cpp" />
+		<Unit filename="enlaces.h" />
+		<Unit filename="interno.cpp" />
+		<Unit filename="interno.h" />
+		<Unit filename="lista.h" />
+		<Unit filename="lista4.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="nodo.h" />
+		<Unit filename="nodo4.h" />
+		<Unit filename="red.cpp" />
+		<Unit filename="red.h" />
+		<Unit filename="salidas.cpp" />
+		<Unit filename="salidas.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

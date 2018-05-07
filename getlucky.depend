@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1436484145 source:e:\facultad\algo7541\tp2\getlucky_v23\central.cpp
+	"central.h"
+
+1435032084 e:\facultad\algo7541\tp2\getlucky_v23\central.h
+	"lista.h"
+	"interno.h"
+	"enlaceacentral.h"
+
+1435887633 e:\facultad\algo7541\tp2\getlucky_v23\lista.h
+	"nodo.h"
+
+1432845394 e:\facultad\algo7541\tp2\getlucky_v23\nodo.h
+
+1435031896 e:\facultad\algo7541\tp2\getlucky_v23\interno.h
+	"lista.h"
+	"datosllamadas.h"
+
+1433375231 e:\facultad\algo7541\tp2\getlucky_v23\datosllamadas.h
+	<iostream>
+
+1434911756 e:\facultad\algo7541\tp2\getlucky_v23\enlaceacentral.h
+	"lista.h"
+
+1436484220 source:e:\facultad\algo7541\tp2\getlucky_v23\datosllamadas.cpp
+	"datosllamadas.h"
+
+1433379711 source:e:\facultad\algo7541\tp2\getlucky_v23\detallepaso.cpp
+	"detallepaso.h"
+
+1433379912 e:\facultad\algo7541\tp2\getlucky_v23\detallepaso.h
+	"lista.h"
+	"central.h"
+
+1436484715 source:e:\facultad\algo7541\tp2\getlucky_v23\enlaceacentral.cpp
+	"enlaceacentral.h"
+
+1436484838 source:e:\facultad\algo7541\tp2\getlucky_v23\enlaces.cpp
+	"enlaces.h"
+
+1433313970 e:\facultad\algo7541\tp2\getlucky_v23\enlaces.h
+	"central.h"
+	"lista.h"
+
+1436484930 source:e:\facultad\algo7541\tp2\getlucky_v23\interno.cpp
+	"interno.h"
+
+1436478145 source:e:\facultad\algo7541\tp2\getlucky_v23\main.cpp
+	"salidas.h"
+
+1436246117 e:\facultad\algo7541\tp2\getlucky_v23\salidas.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<string>
+	"red.h"
+
+1436486229 e:\facultad\algo7541\tp2\getlucky_v23\red.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"central.h"
+	"enlaces.h"
+	"lista.h"
+	"datosllamadas.h"
+	"enlaceacentral.h"
+	"lista4.h"
+
+1435860489 e:\facultad\algo7541\tp2\getlucky_v23\grafo.h
+	"enlaces.h"
+	"nodografo.h"
+	"colaprioridades.h"
+	"red.h"
+
+1435259983 e:\facultad\algo7541\tp2\getlucky_v23\nodografo.h
+	"arista.h"
+
+1435862597 e:\facultad\algo7541\tp2\getlucky_v23\arista.h
+
+1435858497 e:\facultad\algo7541\tp2\getlucky_v23\colaprioridades.h
+	<iostream>
+	<stdlib.h>
+	"nodoprioridades.h"
+
+1435178551 e:\facultad\algo7541\tp2\getlucky_v23\nodoprioridades.h
+
+1436483490 e:\facultad\algo7541\tp2\getlucky_v23\lista4.h
+	"nodo4.h"
+
+1436042209 e:\facultad\algo7541\tp2\getlucky_v23\nodo4.h
+	"central.h"
+
+1436487251 source:e:\facultad\algo7541\tp2\getlucky_v23\red.cpp
+	"red.h"
+
+1436486573 source:e:\facultad\algo7541\tp2\getlucky_v23\salidas.cpp
+	"salidas.h"
+
+1436484145 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\central.cpp
+	"central.h"
+
+1435032084 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\central.h
+	"lista.h"
+	"interno.h"
+	"enlaceacentral.h"
+
+1435887633 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\lista.h
+	"nodo.h"
+
+1432845394 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\nodo.h
+
+1435031896 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\interno.h
+	"lista.h"
+	"datosllamadas.h"
+
+1433375231 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\datosllamadas.h
+	<iostream>
+
+1434911756 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\enlaceacentral.h
+	"lista.h"
+
+1436484220 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\datosllamadas.cpp
+	"datosllamadas.h"
+
+1436484715 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\enlaceacentral.cpp
+	"enlaceacentral.h"
+
+1436484838 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\enlaces.cpp
+	"enlaces.h"
+
+1433313970 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\enlaces.h
+	"central.h"
+	"lista.h"
+
+1436484930 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\interno.cpp
+	"interno.h"
+
+1436490774 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\main.cpp
+	"salidas.h"
+
+1436490056 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\salidas.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<string>
+	"red.h"
+
+1436486229 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\red.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"central.h"
+	"enlaces.h"
+	"lista.h"
+	"datosllamadas.h"
+	"enlaceacentral.h"
+	"lista4.h"
+
+1436483490 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\lista4.h
+	"nodo4.h"
+
+1436042209 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\nodo4.h
+	"central.h"
+
+1436487251 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\red.cpp
+	"red.h"
+
+1436490635 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_v23\salidas.cpp
+	"salidas.h"
+
+1436545026 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\datosllamadas.cpp
+	"datosllamadas.h"
+
+1436496522 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\datosllamadas.h
+	<iostream>
+
+1436545928 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\enlaceacentral.cpp
+	"enlaceacentral.h"
+	<ostream>
+
+1436496546 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\enlaceacentral.h
+	"lista.h"
+
+1435887633 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\lista.h
+	"nodo.h"
+
+1432845394 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\nodo.h
+
+1436545178 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\enlaces.cpp
+	"enlaces.h"
+
+1436496580 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\enlaces.h
+	"central.h"
+	"lista.h"
+
+1435032084 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\central.h
+	"lista.h"
+	"interno.h"
+	"enlaceacentral.h"
+
+1435031896 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\interno.h
+	"lista.h"
+	"datosllamadas.h"
+
+1436545270 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\interno.cpp
+	"interno.h"
+
+1436496662 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\main.cpp
+	"salidas.h"
+
+1436539865 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\salidas.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<string>
+	"red.h"
+
+1436486229 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\red.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"central.h"
+	"enlaces.h"
+	"lista.h"
+	"datosllamadas.h"
+	"enlaceacentral.h"
+	"lista4.h"
+
+1436483490 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\lista4.h
+	"nodo4.h"
+
+1436042209 c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\nodo4.h
+	"central.h"
+
+1436728106 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\red.cpp
+	"red.h"
+
+1436544980 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\central.cpp
+	"central.h"
+
+1436539927 source:c:\users\andres.cauci\desktop\algoii\tp's\tp2 grupal\getlucky_versionfinal\salidas.cpp
+	"salidas.h"
+
